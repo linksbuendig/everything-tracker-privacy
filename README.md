@@ -2,6 +2,8 @@
 
 ---
 
+[German version/ Deutsche Version](/privacy_policy_de.md)
+
 **Last Updated:** July 30, 2025
 
 This Privacy Policy explains how Everything Tracker ("we," "us," or "our") handles information collected from users of the Everything Tracker mobile application (the "App"). We're committed to protecting your privacy and being transparent about our data practices.
@@ -81,3 +83,4 @@ We may update this Privacy Policy from time to time. We'll let you know about an
 ## 10. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us.
+
