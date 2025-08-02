@@ -4,11 +4,11 @@
 
 **Last Updated:** July 30, 2025
 
-This Privacy Policy explains how [Your Company Name/Developer Name] ("we," "us," or "our") handles information collected from users of the Everything Tracker mobile application (the "App"). We're committed to protecting your privacy and being transparent about our data practices.
+This Privacy Policy explains how Everything Tracker ("we," "us," or "our") handles information collected from users of the Everything Tracker mobile application (the "App"). We're committed to protecting your privacy and being transparent about our data practices.
 
 ## 1. Your Data Stays on Your Phone
 
-The main purpose of **Everything Tracker** is to help you track your personal data. **All personal data you put into Everything Tracker is stored only on your device.** This data **never** leaves your phone. We don't collect, store, transmit, or access any of the personal information you enter into the App, such as your [mention examples of data the app tracks, e.g., health metrics, habits, financial info].
+The main purpose of **Everything Tracker** is to help you track your personal data. **All personal data you put into Everything Tracker is stored only on your device.** This data **never** leaves your phone. We don't collect, store, transmit, or access any of the personal information you enter into the App, such as your.
 
 ## 2. Information We DO Collect (Non-Personal Data)
 
